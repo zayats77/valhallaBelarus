@@ -1,4 +1,4 @@
-FROM valhalla/docker:3.0.02
+FROM valhalla/docker:build-3.0.2
 ENV MAP belarus-latest
 
 # ADD http://download.geofabrik.de/europe/${MAP}.osm.pbf /data/${MAP}.osm.pbf
